@@ -1,4 +1,4 @@
-# scf cli
+# SCF CLI
 
 ------
 
