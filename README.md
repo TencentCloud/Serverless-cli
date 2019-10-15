@@ -6,7 +6,7 @@ SCF CLI 通过一个函数模板配置文件，完成函数及相关周边资源
 
 目前 SCF CLI 以开源形式发布，您可以在本项目中查看命令行源代码及更多帮助文档，并可以通过项目 issue 反馈问题。
 
-## 功能特性
+### 功能特性
 
 通过 SCF 命令行工具，你可以：
 
@@ -17,12 +17,12 @@ SCF CLI 通过一个函数模板配置文件，完成函数及相关周边资源
 * 打包、上传函数代码，创建函数及更新函数配置
 * 获取函数列表，删除指定函数
 
-## 快速入门
+### 快速入门
 
 您可以前往腾讯云官网查看 [SCF 快速入门](https://cloud.tencent.com/document/product/583/33446)
 
 
-## 详细使用指导
+### 详细使用指导
 
 
 * [安装与配置](https://cloud.tencent.com/document/product/583/33449)
@@ -33,6 +33,6 @@ SCF CLI 通过一个函数模板配置文件，完成函数及相关周边资源
 * [本地调试(local invoke)](https://cloud.tencent.com/document/product/583/35401)
 * [测试模板](https://cloud.tencent.com/document/product/583/33453)
 * [模板文件](https://cloud.tencent.com/document/product/583/33454)
-* [TCSAM说明](https://cloud.tencent.com/document/product/583/36198)
+* [TCSAM 说明](https://cloud.tencent.com/document/product/583/36198)
 * [更新日志](https://cloud.tencent.com/document/product/583/36908)
 * [常见问题 FAQ](https://cloud.tencent.com/document/product/583/33456)
